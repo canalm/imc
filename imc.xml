@@ -37,6 +37,7 @@
     <languages folder="site">
 			<language tag="en-GB">language/en-GB/en-GB.com_imc.ini</language>
 			<language tag="el-GR">language/el-GR/el-GR.com_imc.ini</language>
+			<language tag="el-GR">language/pt-BR/pt-BR.com_imc.ini</language>
     </languages>
     <administration>
         <menu img="components/com_imc/assets/images/s_com_imc.png" >COM_IMC</menu>
@@ -76,6 +77,8 @@
 			<language tag="en-GB">language/en-GB/en-GB.com_imc.sys.ini</language>
 			<language tag="el-GR">language/el-GR/el-GR.com_imc.ini</language>
 			<language tag="el-GR">language/el-GR/el-GR.com_imc.sys.ini</language>
+			<language tag="el-GR">language/pt-BR/pt-BR.com_imc.ini</language>
+			<language tag="el-GR">language/pt-BR/pt-BR.com_imc.sys.ini</language>
         </languages>
     </administration>
     <plugins>
